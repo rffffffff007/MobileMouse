@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Mobile Mouse</string>
+
+	<string name="fadding_init_text">Click or slide here\n
+Gestures supported:\n
+Move: one finger slide\n
+Left-Click:	one finger tap\n
+Double-Click: one finger\n
+double tap\n
+Right-Click: two fingers tap\n
+at the same time\n
+Wheel: keep two fingers\n
+pressed and slide\n
+</string>
+
+	<string name="pc_not_found">Cannot found the corresponding PC in current network segment. Please checking the following reasons: \n
+1 Try to download the program for PC and keep it running. \n
+Download:(enter the following address in your PC browser.) \n
+http://static.buding.cn/mm_win.exe \n
+2 Try to connect your PC and mobile phone to the same route/hub, since they must be in the same network segment to communicate. \n
+ \n
+If it does not work, feel free to contact me, thank you very much. \n
+Email: renfei@buding.cn</string>
+
+</resources>

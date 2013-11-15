@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手机鼠标</string>
+    
+    <string name="fadding_init_text">在这里点击 或 移动\n
+支持的手势：\n
+移动：单指拖动\n
+单击：单指点击\n
+双击：单指双击\n
+右键：双指同时单击\n
+滚动：双指同时按住，上下滑动\n
+</string>
+    
+    <string name="pc_not_found">当前网段内没有搜索到对应的pc端，请检查以下两项：\n
+1 下载PC端程序并保持运行。\n
+下载地址：(在PC浏览器中输入以下地址)\n
+http://static.buding.cn/mm_win.exe\n
+2 将您的PC和手机连接在同一个路由之上，以保证他们处于同一个网段。\n
+\n
+如果您仍然无法使用，请与我联系，谢谢。\n
+Email: renfei@buding.cn</string>
+    
+</resources>
